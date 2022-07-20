@@ -30,7 +30,7 @@ Click the reset token (Make sure it copy it beacuse you are going to need that i
 Make a folder if you want
 Right-click anywhere > New > TextDocument > You can name it anything you want but make sure you add .py in end (eg: GoDzord.py)
 Now right-click the file you just create and select Open with > Notepad (You can also use code editor if you have but wont make any difference)
-Dont edit anything in the code! scroll to the bottom and replace TOKEN with the token you copied
+Dont edit anything in the code! scroll to the bottom and replace 'your token' in line 27 with the token you copied
 Click CTRL+S and you can exit
 Double click your python file
 Go to the respective channel and type 'start'
