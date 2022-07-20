@@ -16,7 +16,7 @@ You can go to https://www.python.org/downloads/ and install the latest version a
 -In bot perms you can choose any as long as they can send message and ping everyone (If you dont wanna go through all the stuff give the bot adminstrator perms)
 -Make channels depenending on how many pings you want (I personally recommend 3 because of rate limit)
 
-# Installing discord.py
+# Installing discord.py	
 
 -In your windows search 'command prompt' and run as administrator
 -Type in 'pip install discord.py'
