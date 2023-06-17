@@ -1,7 +1,11 @@
 import discord
 import sys
 
-client = discord.Client()
+intents = discord.Intents.default()
+intents.typing = False
+intents.presences = False
+
+client = discord.Client(intents=intents)
 
 @client.event
 async def on_ready():
